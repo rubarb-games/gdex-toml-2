@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://d2xfh2sbybc2u"]
+
+[ext_resource type="Script" uid="uid://bytfyhfarc0tp" path="res://scripts/toml_reader.gd" id="1_akmxb"]
+
+[node name="Node2D" type="Node2D" unique_id=1533679792]
+script = ExtResource("1_akmxb")

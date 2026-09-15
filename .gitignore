@@ -1,0 +1,6 @@
+.editor
+.sconsign.dblite
+compile_commands.json
+output/
+godot-project/addons/**/*.so
+godot-project/addons/**/*.dll

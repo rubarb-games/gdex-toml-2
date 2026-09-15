@@ -1,0 +1,10 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1789480590
+sample.toml::TextFile::-1::1789480234::0::1::::<><><>0<>0<><>::
+toml_reader.tscn::PackedScene::9102159049185202394::1789480445::0::1::::<><><>0<>0<><>::uid://bytfyhfarc0tp::::res://scripts/toml_reader.gd
+::res://addons/::1789478094
+::res://addons/gdex-toml-2/::1789479343
+gdex-toml-2.gdextension::GDExtension::8349132469065750638::1789479343::0::1::::<><><>0<>0<><>::
+::res://addons/gdex-toml-2/bin/::1789479300
+::res://scripts/::1789480445
+toml_reader.gd::GDScript::4110522927760862809::1789480445::0::1::::<>Node<><>0<>0<><>::
